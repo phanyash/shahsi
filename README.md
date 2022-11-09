@@ -1,2 +1,2 @@
-# shahsi
+# shashi
 This is my repository
